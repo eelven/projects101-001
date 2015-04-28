@@ -12,11 +12,11 @@ it informs the way we plan, the evolutuin of our executives, and the time
 that they spend, in the way they spend operating our business.
 A project plan is very specific, and it's going to include the following
 components.
-A project plan is going to include identifying the scope (1:20), it is
-going to include a phase of identifying all the tasks, the dependencies
-among them and the schedule.
+A project plan is going to include identifying the ->|scope|<- (1:20), it
+is going to include a phase of identifying all the ->|tasks|<-, the
+->|dependencies|<- among them and the ->|schedule|<-.
 In order to ultimately come up with an actual duration and time frame for
-the completion of our project
+the completion of our project.
 As part of our plan, we're also going to be thinking of our resources and
 how many we need and when do we need them. We're going to be clarifying 
 the trade offs that we're going to be making in terms of cost, resources
@@ -61,4 +61,7 @@ Plan:
 Close:
 .Sign off
 .Conduct a formal post-mortem
- 
+
+-- __ -- __ -- __ --
+
+2.2 Detailed Scoping (6:02)
