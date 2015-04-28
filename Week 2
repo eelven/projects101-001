@@ -65,3 +65,46 @@ Close:
 -- __ -- __ -- __ --
 
 2.2 Detailed Scoping (6:02)
+The 1st. step in planning a project is scoping the project properly.
+This step is probably the most neglected step in the entire process
+of planning a project. We rush too quickly to look at timing and 
+Gantt charts.
+In order to scope the project properly, we often use a tool, or we
+recommend using a tool called the work breakdown structure. It's a 
+visual tool that's literally going to break down the project into
+working components.
+
+Work Breakdown Structure
+.Visually breaks down project scope
+..Project
+..Subprojects
+..Work packages
+..Activities / Tasks
+
+Once we brainstorm, either in the form of a blackboard, sticky notes,
+or on white board, then we can use certain tools and software in order
+to organize these thoughts in a more acessible way (2:27)
+The process of going through, the brainstorming process of going through
+and identifying what is part of our project and what we might want to 
+leave out of this specific project, is vital before we even start looking
+at the schedule.
+
+Work Breakdown Structure - Tips
+.Use Sticky notes/blackboard/white board
+Start with something that you can easily amend; either by pacing sticky notes
+on the board, reorganizing them. Use a team of people to brainstorm, and work 
+together with individuals, including those who are actually going to do, be 
+doing the work; or your clients, who you might need to deliver the product to
+in order to make sure that the scope is well defined.
+.Use automated tools e.g. MS Project, WBSPro
+.Detail down to no less than 5%-10% of the total duration or a single resource
+
+Now if you can't get to the level of detail that is required, it implies that 
+you might not be talking to the right people and you might need to find out 
+more information about the scope of your project so the first step is coming up
+with a work breakdown structure.
+Now, we know the scope of a project.
+
+-- __ -- __ -- __ --
+
+2.3 Identifying Dependencies (5:48)
