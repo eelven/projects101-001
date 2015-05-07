@@ -108,3 +108,84 @@ Now, we know the scope of a project.
 -- __ -- __ -- __ --
 
 2.3 Identifying Dependencies (5:48)
+
+There are 3 ways to looko at the dependencies:
+
+Work Breakdown Structure
+-Start Project
+--Creative
+--Strategy
+--IT
+--Fundraising
+--Marketing
+--Sales
+--Finance
+--HR
+
+1-The disign matrix typically has the list of activities in the column and
+the list of the activities in the rows. (video 01:00)
+
+2-The table (video 02:40)
+
+3-Network Diagram (03:03)
+
+Types of Dependencies
+finish -> start
+finish -> finish
+start -> finish 
+start ->start
+
+-- __ -- __ -- __ --
+
+2.4 Determine the Copletion Data and Critical Path (17:09)
+
+For planning a project, we first scoped our project using a work 
+breakdown structure.
+
+Work Breakdown Structure
+-Start Project
+--Creative
+--Strategy
+--IT
+--Fundraising
+--Marketing
+--Sales
+--Finance
+--HR
+
+The next step in planning our project was to come up with the precedence
+relationship; wich tasks are dependent on others an how are they depend?
+We came up with the following list (00:33)
+
+Estimatting Activity Durations can be Tricky! (02:05)
+-Parkinson's Law
+We plain for activity to take a certain amount of weeks, be sure that the 
+work will fill up the entire duration
+
+- Student's Syndrome
+If I give you 4 weeks to complete a task, you are like to not even start
+working on that task until the very last minute 
+
+-Overconfidence
+-Biases
+  --Anchoring
+  --Confirmation
+  
+(video 07:15)
+
+Critical Path (14:14)
+- The longest path in the project/network.
+- The project duration, defined by the length of the critical path, is also
+known as makespan.
+- A delay in any activity along the critical path will cause a delay in the
+project
+- The method was developed by Engineers at DuPont Corporation in the 1950s.
+
+Gantt Chart: Dependencies and Milestones (15:10)
+
+ps.: Check out some videos prepared associated with how to execute on these
+steps in MS Project.
+
+-- __ -- __ -- __ --
+
+2.5 How Do We Schedule? (03:04)
