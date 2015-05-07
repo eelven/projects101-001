@@ -133,7 +133,7 @@ Types of Dependencies
 finish -> start
 finish -> finish
 start -> finish 
-start ->start
+start -> start
 
 -- __ -- __ -- __ --
 
@@ -189,3 +189,41 @@ steps in MS Project.
 -- __ -- __ -- __ --
 
 2.5 How Do We Schedule? (03:04)
+
+We've carried out a critical path analysis to come up with our project duration estimate
+and to identify which of the activities in our network, in our project, are critical.
+Those critical tasks have zero slack, they need to start as soon as we can and they
+need to finish on time.
+However, let's think about the noncritical tasks. When do we think that we would like
+to perform the work? (00:35)
+
+Depending on your project priorities and your project objectives, you might want to go
+with one schedule versus the other, the other.
+Let's think about the benefits of an as soon as possible schedule versus a late as 
+possible schedule.
+
+ASAP or ALAP?
+------------------------------------|
+As Soon as Possible |   Cost  | Time|
+                          X       V
+As Late as Possible |   Cost  | Time|
+                          V       X
+------------------------------------|
+What is it that we care about?
+Are we constrained by cost or by time?
+We need to invest cost now in order to gain slack and bugger in terms of
+our timing.
+On the flip side, if we are constrained by costs, and we are working with
+a limited budget and we know that maybe ca, time is something that we 
+compromise on, we're better off pushing our tasks as late as possible.
+As late as possible schedule delays the commitment of cost, delays the
+commitment of resources untill a time that we know we must use it.
+Costs futher down in the future are cheaper. However it eats, it eats
+up all the slack. Postponing the tasks mean that we leave ourself with 
+very little slack towards the end of our project and if we need extra
+time, we will not have it. and so if our priority is cost, you're
+better off scheduling as late as possible
+
+-- __ -- __ -- __ --
+
+2.6 What If I Don't Like Planning? Making Changes? (03:41)
