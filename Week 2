@@ -227,3 +227,74 @@ better off scheduling as late as possible
 -- __ -- __ -- __ --
 
 2.6 What If I Don't Like Planning? Making Changes? (03:41)
+
+Imagine that we're gone through all the steps: scoped the project and identified
+all the different activites that need to take place. We've identified the precedence
+relationships and we've estimated the task durations to find the overall project
+expected completion time, and overall duration. 
+But now, you realize that it's way too long. You don't have 12 weeks available to
+you. You need to shorten your project. You need to meet a deadline. What can you do?
+Well, luckily, the tools and the steps that we've taken so far will be critical and
+will help us in identifying ways to shorten our project duration. And we're going
+to start by those tasks that we identified as part of the critical path. The critical
+path is the only way to focus our attention and to shorten our project duration. We 
+start by identifying those tasks on the critical path that are candidate to shortening, 
+or to crashing.
+Project Crashing
+.Project duration can be reduced only by shortening critical activities.
+.It may be worth spending money to reduce the length of a project.
+.  ->Select the least expensive to crash.
+.New critical paths may emerge.
+. ->reduce all critical paths!
+We think about what do we need to spend in order to reduce their duration
+Do we need to include additional resources?
+Do we need to spend more money?
+Once we've identified the least expensive task amoung the critical tasks that
+we are going to be able to shorten, we start experimenting with shortening the
+duration.
+ But pay very carefull attention !  As you start shortening task duration, a new
+ critical path, a new longest path in your project might emerge and therefore, 
+ you might need to take your attention elsewhere and start crashing other 
+ activities from other parallel paths. We need to conduct this crashing 
+ activity or reducing the project duration in a cycle. We identify our critical
+ tasks. We find the least expensive task to reduce its duration. We reduce its
+ duration, and we identify the new critical path that might have emerged.
+ All the critical paths, even if there are multiple of them, will need to be
+ shortened in order for our overall project duration to be reduced.
+ In the process of doung this, what's going to happen? Well, a few things.
+ 
+ As a Result of Project Crashing
+ .Critical path
+ ..Shorter
+ ..May change : We might introduce a new critical path and a new set of critical activities
+ ..More activities may become critical
+ .Higher risk?
+ 
+But if we need to meet that external deadline, we might be willling to take upon
+ourserlves that risk, reduce the slack in our project. Have more activities shortened
+and tightened in their duration in order to meet the overall deliverable date.
+If it's not possible to invest additional resources in order to reduce some of our 
+ritical tasks, another alternative is to go back to our scope. Reflect on what is
+ecessary, and look at our work breakdown structure. Can we eliminate some 
+nnecessary tasks? Can we reduce the functionality of our product, and perhaps, 
+postpone some functionatily to a later version or to a later phase?
+
+Reducing Scope
+.Eliminate activities
+.Unncessary
+ .Reduce functionality
+ .Cut corners
+ .Oursource
+ 
+If we do that, and maybe we consider some areas where we can cut corners, or
+perhaps, outsource some of the work. We might be able to reduce the project
+completion time by looking at the scope, reducing the scope, and not 
+necessarily accelerating our tasks. Depending on our trade offs among our 
+objectives, if we're limited by this, if we're constrained by our scope, 
+by our time or by cost, we can choose how to investigate reducing the overall
+project duration.
+
+-- __ -- __ -- __ --
+
+2.7 Reflection on Common Mistakes (7:23)
+
