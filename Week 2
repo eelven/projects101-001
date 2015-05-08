@@ -489,3 +489,38 @@ interrelate was such a great concept for us to hold onto.
 
 2.9 Supplemental Tutorial: Getting Started with Microsoft Project (6:02)
 
+(video 00:00)
+task name, duration, start, finish, predecessors
+Gantt chart
+end = Diamond
+critical path
+Add a high level summary task, a roll up task that will tell me overall,
+when do I start, when do I finish and my overall duration.
+right-click on top, and insert a task, in this case : Startup Project
+highlight all the other tasks underneath it, and click on indent them ->
+This has automatically created a summary task that basically summarizes
+the entire project. Our entire project is going to take 12 weeks. It
+will start on Mon Jan 19th and it will complete on Fri, April 10th
+
+We can also add a start milestone, if we would like to represent a 
+point in time in which we all, of our projects or all of our tasks
+are going to start. And so we, this is also a milestone, we can give
+it a duration of 0, and we can make our first three tasks, meaning the
+Creative, the Strategy and the IT, dependent on that start milestone.
+Perhaps if we're depending on a specific approval or a specific license
+in order to start, to get things started.
+We have our complete Gantt chart with our starting date, our competion
+date, and our critical tasks highlighted.
+Another important view that we get from MS Project, or most project
+management tools out therem is the network diagram.
+By choosing the network diagram, let me collapse the boxes, so you
+can see a better view of this. We get an entire overview, an entire
+view of the network and the flow of the project from left to right
+as we looked at before manually to make sure that we are comfortable
+that our project is complete. There is a link between all of our tasks.
+There are clear dependencies. We have one start and one finish, and we
+can now be confident that our plan makes sense and that we're not
+missing any fundamental relationships.
+
+-- __ -- __ -- __ --
+
