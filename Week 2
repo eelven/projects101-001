@@ -396,3 +396,58 @@ All activities with predecessors or successors?
 .Milestones
 One start milestone and one project competion milestone?
 Intermediate milestone? Each one has a critical path?
+
+.Gantt-chart
+No missing dependencies between activities in correct sequence?
+No summary task links?
+Tasks with excessive durations?
+Check dependencies(oberlaps, time lags)
+Check critical path: from project start to finish?
+
+Let's summarize and wrap up the key steps in planning projects:
+
+Planning Wrap Up
+
+.Project planning is crucial for project success:
+spend the time plannning properly and not rushing to execution,
+we will have a higher chance of success.
+
+.A project plan is a guide, not a schedule of what will exactly happen
+
+.Follow the project planning cycle:
+Through word breakdown structure, and identifying the scope through a 
+complete project schedule.
+
+.Make sure the goal of the project is clear to you:
+
+.Ensure project scope is complete(most crucial part of planning)
+
+A few more point as we think abour wrapping up our planning phase:
+Planning Wrap UP - Cont.
+
+.Make sure that we estimate our individual activity durations:
+We know that there are some challenges associated with estimating our
+task durations, so spend some time reflecting on some of these
+individual biases such as overconfidence and anchoring.
+
+.Decide who owns each activity: 
+And communicate with them. That they understand whether they're
+critical or not and what tasks depend on them further down in 
+the project, and who they depend on upstream.
+
+.Know which are the critical activities("critical"≠"important"):
+Identify your critical tasks in terms of your duration, not 
+necessarily in terms of the importance of the scope.
+
+.Prevent conflicts between activities:
+And add dependencies if need be, to represent conflicts.
+
+.Projects can be accelereated by crashing and/or fast-tracking:
+Know that you have, in your back pocket, the tools to decide to
+accelerate the project if need be, and to trade off your cost, 
+time, and scope associated with your priorities of your project.
+
+-- __ -- __ -- __ --
+
+2.8 Project Managente in Action: Virginia Festival of the Book (4:22)
+
