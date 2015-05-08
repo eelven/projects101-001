@@ -298,3 +298,101 @@ project duration.
 
 2.7 Reflection on Common Mistakes (7:23)
 
+video(00:40)
+
+-----------------------------------------------------------------------
+Issue                     Consequences    Impact
+-----------------------------------------------------------------------
+No WBS                    Missing tasks   Incorrect scope
+                                          No responsibility assigned
+                                          Incorrect project duration,
+                                          critical path, cost estimates,
+                                          and resource loads
+-------------------------------------------------------------------------
+Task durations specified  Underestimate   Underestimated project duration
+in terms of work          task durations  Incorrect crucial path
+-------------------------------------------------------------------------
+No Network                Missing         Incorrect project duration
+diagram                   dependencies    and critical path
+-------------------------------------------------------------------------
+
+Many firms dig in to the plan, and they neglect to stop and come up with a
+proper work breakdown structure.It is the most crucial step of the plan.
+ No work breakdown structure will imply missing tasks, complete pieces of
+ work that are neglected to be considered as part of your plan.
+ It is all too simple to forget, or to neglect a component of your
+ project and therefore conductiong a proper brainstorming, session, or
+ working out your breakdown structure, will ensure that you do not find
+ yourself without a proper scope. If you don't have a proper scope, then
+ you won't have the proper project estimation, the duration estimate.
+ You won't have a proper, network diagram or critical path, and your cost
+ estimates will be way off, so spend the time working through the work
+ breakdown structure.
+ Other typical mistakes are the task durations are specified in terms of
+ work and not in terms of actual durations. Neglecting to realize that 
+ individuals have to go home for the weekend or they have to take some
+ time off once in a while in order to come back the next day refreshed.
+ And so, think about durations and not only work.
+ No networw diagram.  The network diagram is a visual tool. It is appealing
+ in the sense that it gives us an overview in a very visual way of the flow
+ within our project. Make sure to spend some time. Look at your network 
+ diagram and make sure that there is a logical flow of your chain from 
+ start to finish. That will allow you to spot your critical path and your
+ entire site of precedence.
+ 
+ 
+-----------------------------------------------------------------------
+Issue                     Consequences    Impact
+-----------------------------------------------------------------------
+Tasks without             Missing         No project critical path
+predecessors or           dependencies
+successors
+-------------------------------------------------------------------------
+Fixed start dates         Missing         Plan prone to errors
+to mimic                  dependencies    No project critical path
+dependencies
+-------------------------------------------------------------------------
+No dependency                             Plan update cumbersome
+between activities                        and prone to errors
+in the correct
+sequence
+-------------------------------------------------------------------------
+Dependencies              Unnecessary     Time wasted, unclear
+between                   dependencies    network diagram
+summary tasks
+-------------------------------------------------------------------------
+
+ Other common mistakes have to do a lot with the precedence relationships.
+ These can often be pretty tricky to identify. And so, as we think through
+ our plan and we work typically looking at a gantt chart, we might rush in
+ and we might neglect to identify proper precedence relationships between 
+ predecessors and successors. And so, don't use fixed date to mimic a
+ relationship. Don't expect, that if a task, if you fix it to start at the
+ first of August, it represents a link, or a flow from other tasks that are
+ feeding into it. The first of August is arbitrary. If you postpone the 
+ entire project, what you really want to be saying is that task b, depends
+ upn task a. And so represent it with the proper dependency. If you happen
+ to have tasks in your project that are scheduled in the right sequence
+ but don't have the relationship, you might not realize in the future as
+ things change, that they're actually linked by some information flow or
+ from some even material flow from to the next.
+ And finally, if you're working with a work breakdown structure with a 
+ complicated project and you have summary tasks, don't link the summary
+ tasks. Those tasks include the detailed individual level tasks, and the
+ relationships shoud be formed only at that level.
+ Following, or thinking about these commmon mistakes, and reflecting and
+ ensuring that you don't exhibit them within your project plan, will allow
+ you to put your best step forward, and have more confidence in your plan.
+ 
+ Plan Checklist
+.WBS
+Available? Complete?
+Communicated? Agreed-upon?
+ 
+.Network Diagram
+One start and one finish?
+All activities with predecessors or successors?
+ 
+.Milestones
+One start milestone and one project competion milestone?
+Intermediate milestone? Each one has a critical path?
