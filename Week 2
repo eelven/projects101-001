@@ -524,3 +524,101 @@ missing any fundamental relationships.
 
 -- __ -- __ -- __ --
 
+2.10 Supplemental Tutorial: Tracking Progress and Updating Project
+Plan in Microsoft (09:25)
+
+video(00:00)
+
+Report on the status of a project
+To report on any update on the tasks and the work that has been done.
+And to report on how we're doing in terms of our spending, how much 
+money have we spent so far and to allow us to compare to our original
+plan. Are we behind schedule? Are we over budget? An when do we
+anticipate to complete our project? The first step is to open up your
+original plan.
+Save the baseline.
+Project ribbon and we set a baseline and press ok
+I would also recommend that you resave the file to indicate when
+you're reporting a status update.
+Now we can go ahead and change the current date, the status date, and
+start entering some information on how well we're doing in our project.
+To update the dates, in terms of the status when we're reporting the
+progress done,go to Project ribbon and chose the Project Information.
+And simply change the date to the current date and the status date to
+The Gantt chart will show a green line indicating what is the current
+date that I'm reporting against. I can use this table to also report
+how well we're doing, how much progress have we made on the tasks.
+For instance, my start milestone. I've started the project already.
+So I'm 100% complete with it. I can go to the task ribbon, set of the
+blue buttons allow me to report a certain percentage complete of
+work. in this case my Start milestone is a 100% complete. My creative
+task is 25% complete. My strategy is 75% complete and my IT is 25% 
+complete.
+MS Project allow us to view this information in a Gantt chart here on
+the right, with the blue bars indicating the progress made so far. 
+I can also enter information associated with the cost, the actual 
+cost, what I've spent so far.
+Insert a column, I prefer to view everything in, in this table add
+a column called Actual Cost. and I'm going to use this column to
+report on the spending so far.
+I've spent $500 on the creative, $300 on strategy, $1000 were
+spent related to the IT task.
+So far, we're entered information to representing what we've done in
+terms of work and in terms of spending.
+Another view that summarizes some of this information: go to the
+view ribbon and under the view ribbon, you have a whole set of
+predetermined tables that might be helpful for you as you look at
+your progress. One of these tables that I recommend looking at is
+your tracking table. The tracking table, allows us to view our
+overall project, the start date of our tasks, the percentage that
+we entered in terms of work completed. THe actual duration in 
+terms of what we've done and what is remaining in terms of the
+work to be done and the spending so far in terms of the costs
+that we've entered into in Jana's project.
+In some situations and in some environments, you might want to
+work with the earned value analysis; earned value table and the
+measures that we've introduced allow us to use the financial and
+the costs of our tasks and what we anticipate spending to track
+the progress in terms of our schedule and in terms of our cost.
+Let's move to the earned value table and remind ourselves what
+the information is and how it gets calculated.
+So again, choosing from the View ribbon and the tables option, I
+can actually choose More Tables and choose earned value table and
+clicking Apply changes the table that I'm viewing, still with my
+Gantt chart here on the right.
+So what information do I have?
+The 1st column that I see is the Planned Value. Given that two
+weeks have passed from the project, what did I plan to do in 
+terms of the work? How much of my original tasks should I have
+been done with? reported in terms of the dollars spent.
+My creative task had a total budget, or anticipated cost of
+$1000.
+If two weeks are gone out of the five weeks I allotted to this
+task, I should've spent approximately 40% of my budget. Or I
+should have been about 40% done in terms of the work, and so 
+my Planned Value here is $400.
+My earned Value is how much have I earned for the work I've completed?
+I've done 25% of the task. If the task is expected to cost $1000, I've
+earned $250 worth of work.
+And my actual spent that I've entered into the system is $500. and so
+what this tells me in the next two columns, the SV and the CV, the 
+schedule variance and the cost variance, this tells me that I am
+behind on both dimensions, meaning I am behind on the schedule $150 worth.
+or I am , I completed 25%, as opposed to the 40% of the work that I should
+have been done with, and my cost is about $250 above my original plan.
+There's a lot of more information here as you tell from these extra
+columns that we didn't spend time reviewing. If you would like more information
+you can use the MS Project help file by (F1)
+I will add two measures that we care about, or that we've discussed together, 
+which are the performance indices for both the cost and the schedule.
+To do this, I'm going to insert a new columnm and select from the list my
+SPI, my schedule performance index, and I'm also going to add another column
+which is my CPI, my cost performance index. And these numbers, as a reminder,
+are benchmarked against onde, indicating that everything is on track. an under
+one indicates that we are behind schedule or over budget and above one indicates
+that we are ahead of schedule or under budget.
+In this case, the 3 individual tasks that we have made progress on, seem to all be
+slightly behind schedule and only the strategy task seems to actually be costing
+us less than we antecipated The 2 other tasks are actually running slightly over
+budget.
+So how are we doing overall?
