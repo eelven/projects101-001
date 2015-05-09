@@ -621,4 +621,29 @@ In this case, the 3 individual tasks that we have made progress on, seem to all 
 slightly behind schedule and only the strategy task seems to actually be costing
 us less than we antecipated The 2 other tasks are actually running slightly over
 budget.
-So how are we doing overall?
+So how are we doing overall? Are we behind? Is this a reason to be concerned?
+When do we think that we will finish our project?
+That information is available to us, and MS Project will help view that to do that, 
+we're going to go back to our entry table, choosing Tables > Entry and viewing our
+basic entry table that we started off with.
+As a reminder we thought we would take 12 weeks, this delay that we occurred now.
+How bad are things? Are we behind? Is there a reason to be concerned? How should
+we reallocate our resources?
+Well, let's try and visualize the delay. First we're going to add a progress line
+to our view, by right-clicking on our Gantt chart, choosing Progress Lines and
+clicking Display at project status date. click on OK,  This gives us a visual 
+representation on how we're doing. We see a slight left indentation here that
+indicates that we're slightly behind schedule. but again, we haven't recalculated
+our project, or we haven't asked MS Project to give us a new forecast for our 
+completion date. In order do that, we go to our Project ribbon, and we click on
+Update Project and ask for rescheduling the uncompleted work for after the 
+current date, Press OK and here we have it. MS Project will shift or drag out
+our tasks to represent the delay, indicating to us that we are approximately
+0.75, or 3quarters of a week behind our original schedule and that we are 
+expecting the project to cost about $425 above the original plan. We can also
+visually see a new completion date of April 16th.
+There you have it.
+We've updated our progress against our plan
+We can report on this information to those stakeholders that might be affected
+by it, and we can then continue to move forward only to come back at a later
+date and report on further progress that has been made in our project
