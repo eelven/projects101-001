@@ -273,4 +273,89 @@ Schedule Scenarios
 --__--__--__
 
 3.4 A More Realistic Timeline Part 2 (8:23)
+When we looked at the variability and tasks durations, we considered how much taks's variability affects the
+overall project duration when holding the others fixed, or constant at their most likely duration. But in reality,
+everything is going to be uncertain, and task's durations are going to move all over the place and we're not going
+to have one source of variability with everything else staying constant.
+Our next step is to move beyond changing each task separately, but we're going to throw all of our variability and
+we're going to use very cool tools to visualize and to conceptualize what the overall impact is going to be on our
+project duration. When we acoount for the interactions and the dependencies and the inter, and the links and
+different sources of variabilities that we have in our project. So let's go back and see how we can do this, given
+the same information that we've elicited on our specific example of our start up project. We're going to walk through
+the example and see what we might, what steps we might take in order to come up with a complete probability distributions
+for our overall project duration.
 
+So we have a list of tasks (video 01:15)
+We have our 8 tasks and we have our 3 points, or our 3 data points of each task's estimate a duration. We have the 
+minimum duration it could be, the maximu duration it could be, and some estimate of the most likely duration as well.
+Now we're going to allow our tasks to not only obtain their extreme durations, for instance, 3 or 7 weeks for our Creative.
+But we're going to allow for Creative to move anywhere between 3 and 7 and we're also going to articulate something around
+how likely we believe it is that Creative will take a certain length of time.
+We're going to do this for all our tasks and assign a probability distribution for each one of our task durations.
+Allowing them all to vary simultaneously and preserving our precedence relationship will tell us something about the
+distribution of the overall project duration. The 1st step to do this is to replace our estimates here with an entire
+probability distribution.
+video(02:15)
+There are specialized tools out there, Crystal Ball or @RISK or many other alternatives.
+video(02:33)
+Using these specialized tools, I can replace my minimum, my maximum durations with an estimated duration that is coming
+from an entire distribution. In this case, I use something fairly simple and intuitive which is called the triangular
+distribution. In order to use a triangular distribution, I need to assign a minimum and a maximum, which I know. I've 
+obtained that information. I've collected that information for this specific task and each one of the values in this
+range can be realized. It is a possible outcome that I might see. But Iam telling my tool that it is more likely to be
+ centered. It is more likely in this case to be somewhere around five. So there's a higher probability to obtain values
+ somewhere in the middle. I could assign this distribution, a fairly intuitive and straightforward distribution, to each
+ one of my tasks separately. And when I press a button, I will see a different possible outcome for my future project.
+ Doing this 10,000, 100,000, even a million time, will simulate a million possible realities that my project might face,
+ a million instances of my future project. And if I look at the patterns that emerge, I will be able to conclude what my
+ average, or my expected duration would be. I might be able to learn something about the likelihood of different values.
+ Once I throw it all in, into my tool, and I assign a distribution for each one of my tasks, I run it a million times
+ with a million potential futures.I see the following chart. I see a cumulative distribution. (video 04:20)
+ What this tells me, it tells me the likellihood that the overall project duration will be a certain number of weeks.
+ You may not be able to see all the numbers, but I will highlight them and talk about them so you can learn from this
+ chart, even visually. What I see herem for instance, is that the 12 weeks, which we initially calculated using our
+ critical path analysis. Well, I see that there is somewhere around, say 25% that the project will be completed up to
+ 12 weeks. There is closer to 75% chance that it will take us longer. (video 04:56). Somewhere around 16 weeks, for
+ instance, if I go all the way up. I estimate somewhere around 95% chance of completing this project within 16 weeks.
+ And so, if I'm looking to set a completion date or to report how long it might take me to complete a project, I can
+ choose a confidence level. I can say Iam 95% certain that I will complete within approximately 16 weeks. And I can be
+ more accurate, given the information that I have and given the variability that I know that exists in my project.
+ Another way to view it is looking at the frequency, or looking at the probability. (video 05:34) What is the chance
+ that I will find myself within a certain range? Or what is the chance that my project duration, my project will be 
+ completed within a certain number of weeks?
+ (video 05:45) I can use the tool to come up with confidence ranges, In this case, Iam 90% certain to finish between
+ 10.5 to somewhere in the region of just over 16 weeks. I can convey my confidence level. Iam 90% confidence that this
+ is the range within which my project will be completed.
+ And so we started with individual tasks. We started with calculating the most likely out, estimated duration, and we
+ then looked at ranges. Next step was to vary each task at a time and to think about what is its impact on the overall
+ project duration. Thenm we allowed them all to vary simultaneously and we created these wonderful charts that tell us
+ something about the probability and the confidence that we have in completing the project within a certain length.
+ 
+ Changing Critical Path
+ .As task duration changes, critical path might change.
+ .We will no longer ask - wich tasks are on the critical path?
+ 
+ What we also have to remind ourselves is that as we start and begin on a project, and we acknowledge the fact that the,
+ and variability will occur and tasks, some of them will take shorter and some of them will take longer than our
+ estimations. We are going to see, or we could find ourselves on a different critical path. We're no longer going to be
+ talking about a specific single critical path. And so, we're no longer going to be asking which are the tasks that are on
+ the critical path, because the critical path might vary in realitym and might vary as we move and progress through the project.
+ And so now that we have a tool that allows us to model the variability in each task, we can also ask the question, what is
+ the chance, or how likely is it, that each one of our tasks is on the critical path? No longer certainty but a degree of 
+ likellihood, or some probabilistic statement. When we do thos and we simulate it, we can see for instance, and we can obtain
+ the following information (video 07:36)
+ Critical Index
+ .Probability that an activity is critical
+ We see here that the Creative task is 93% certain, or we're 93% chance that it will be on the critical path. There is
+ about 70% chance that the Sales activity will be on the critical path, and there is virtually no chance that the IT will
+ form part of our critical path. And so again we can use our critical index, or the likely that our task is on the critical
+ path, in order to prioritize our attention and to tell us where to focus and which task and wich ressources might
+ require our attention to make sure that we complete our project within the range that we anticipate to complete it on.
+ 
+ --__--__--__
+ 
+ 3.5 Cost Risk Analysis (3:01)
+ 
+ 
+ 
+ 
