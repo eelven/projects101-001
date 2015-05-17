@@ -1,4 +1,8 @@
+Week 3 slides:
+https://d396qusza40orc.cloudfront.net/projects101/lecture_slides/Week3Slides.pdf
+
 3.1 What's Is Risk About Projects? (7:47)
+
 So we've planned our project. We've come up with the correct scope,
 we've come up with the dependencies amoung the tasks, calculated the
 completion time of our project. So let's start implementing, Let's 
@@ -67,8 +71,6 @@ and uncertainties in our project, remember this mapping. and
 remember to identify where your project falls in order to come up
 with the best mitigation plan and the best set of execution rules
 for your project.
-
---__--__--__
 
 --__--__--__
 
@@ -198,6 +200,7 @@ start executing the tasks immediately, knowing that we have a plan to follow in 
 --__--__--__
 
 3.3 A More Realistic Timeline Part 1 (06:59)
+
 So we know how to develop a risk management plan. We can identify the main risks that our
 project might face, and prioritize them, assign an owner, and we're ready to get going.
 What we're going to do now is we're going to dig in to a specific source of uncertainty and
@@ -273,6 +276,7 @@ Schedule Scenarios
 --__--__--__
 
 3.4 A More Realistic Timeline Part 2 (8:23)
+
 When we looked at the variability and tasks durations, we considered how much taks's variability affects the
 overall project duration when holding the others fixed, or constant at their most likely duration. But in reality,
 everything is going to be uncertain, and task's durations are going to move all over the place and we're not going
@@ -355,6 +359,7 @@ range can be realized. It is a possible outcome that I might see. But Iam tellin
  --__--__--__
  
 3.5 Cost Risk Analysis (3:01)
+
 In a similar way to the fact that we thought about the schedule variability and the uncertainty that exists in our project
 completion time, there is also a certain, uncertainty related to the cost of our project. Risks and variability that we can
 think about, and plan for, associated with how much each task will cost us, and what is the overall cost of our project.
@@ -393,3 +398,48 @@ Perhaps, we will come in under budget, but we know that we have the available re
 --__--__--__
 
 3.6 Planning for Ambiguity (4:28)
+
+We've seen how we can take into account uncertainty and variability that we expect in our project duration and our project
+cost. We've looked at a project plan (video 00:09) and we've identified how variability in the individual task completion
+times might affect our overall project duration. But what if we don't have that information? What if we can't estimate the
+durations at all, let alone 3 estimates for the durations. And what if we can't even estimate which tasks to include in 
+our project? (video 00:29) What will it take to produce a product? What will the product look like? 
+If we are in the sphere of highly ambiguous projects, an environment with many unknown unknowns to us, new technology, new
+customers, new market and new opportunities, we may not be able to come up with a plan, let alone conduct some sort of risk
+analysis that we've done so far. So what do we do? Well. luckily there are tools and there are concepts that we can introduce,
+and we will be discussing, that allow us to deal and to think about how to work in highly ambiguous project settings.
+Instead of limiting ourselves to a specific plan, and thinking about the steps in a very specific manner, we're going to
+open the door to conceptualizing a whole roadmap of opportunities, a whole slew of possible outcomes that we might find
+ourselves and our product might accomplish at the end of the day. And instead of limiting ourselves to very specific tasks
+and duration, we're going to allow our individual employess, the developers, the engineers to conduct the work themselves
+and to find out more information that will help us adjust our plans for the project. We will progress in short and smaller
+durations on a near term basis. (video 01:52) We will make little commitment as to how the future might unfold and we will be
+comfortable with the idea that we might find ourselves in many different final scenarios down the road a year and a half out.
+In the meantime we will empower individual teams to do short iterations, trial and error, to make decisions for themselves
+and to come back to us and report successes and opportunities that failed, in order for  us to shut some doors and open the
+new ones. This mindset moves away from the rigid work with the critical path. However, the critical path is important, and
+higherlevel senior management might still like to look at it and plan accordingly a company vision and a company strategy.
+and so (video 02:43) there needs to be a communication between the teams on the field that are doing short iterations and
+quick information gain on each sub-level task, to communicate back to the higher level management what they've learned and
+how this fits with the vision of the progress of the project for the whole organization. Working in highly ambiguous settings
+is important to recognize how much, how important it is to gain information, to have our developers and to have those 
+enginners out there working and progressing and gaining knowledge all the time.
+(video 03:15)
+Plan to Match Risk
+As we bring the material to a close and we think about the last few sesseions that we've had, we identified ways in which we
+planned for risks, on which we take into account risks in our project planning and how that might inform how we execute our
+projects as well. We identify as a firm , where we are, how can we characterize our project, and how can we characterize the
+firm and the industry that we operate in. We identify the degree of complexity and how ambiguous (video 03:42) the setting is,
+and then we choose how to plan and how to execute our project. And in the course of planning our project and before we dive
+into the execution, we spend some time thinking about our risk, coming up with a management plan, conducting a simulation
+analysis, or allowing our teams to explore, and setting ourselves up to a situation where we are going to conduct multiple
+parallel trial and arrow, errors exploration opportunities.
+Putting these ideas together with a solid plan and a solid risk management approach, we're now set up to start executing
+projects.
+
+--__--__--
+
+3.7 Project Management in Action: Lumi Juice (3:11)
+
+
+
