@@ -1,6 +1,3 @@
-Week 3 slides:
-https://d396qusza40orc.cloudfront.net/projects101/lecture_slides/Week3Slides.pdf
-
 3.1 What's Is Risk About Projects? (7:47)
 So we've planned our project. We've come up with the correct scope,
 we've come up with the dependencies amoung the tasks, calculated the
@@ -201,4 +198,79 @@ start executing the tasks immediately, knowing that we have a plan to follow in 
 --__--__--__
 
 3.3 A More Realistic Timeline Part 1 (06:59)
+So we know how to develop a risk management plan. We can identify the main risks that our
+project might face, and prioritize them, assign an owner, and we're ready to get going.
+What we're going to do now is we're going to dig in to a specific source of uncertainty and
+we're going to think about the risk and the variability that we may face in our schedule. We
+know that there's goingo to be variability to the duration of our project. How can we be more
+specific and learn more about it in order to plan porperly?
+In order to do this, let's look at the example that we're seen along the way. Let's revisit our
+start up project example.
+(00:45)
+Work Breakdown Structure
+Start Project
+-Creative -Strategy -IT -Fundraising -Marketing -Sales -Finance -HR
+We've come up with our work breakdown structure and we've identified the 8 tasks that are part of
+our project.
+More than that we've come up with some initial estimations. We know wich tasks proceed which and we
+know an initial estimate for the duration. How long will each one of our tasks take? What is our best
+guess or our estimate for their duration?
+When we did this we were able to identify using our network diagram and our entire critical path analysis,
+we identified the overall expected project duration. What is the most likely time that we think our project
+will be completed by.
+We thought that it would, it was going to be 12 weeks. But what happens if my creative task, which is critical,
+takes longer? Say for instance seven weeks? What if it finishes sooner, in 3 weeks? What is the actual impact to
+my overall project duration?
+And more than just the creative task, what about variability in the order tasks that I have in my project? Each one
+might not be exactly my, my best guess, or my likely scenario. It could be that if could go sooner, or it might take
+longer.
+What impact does it have on the overall project duration?
+
+video(02:25)
+
+Schedule Risk Analysis (video 02:25)
+ 
+What is the swing on our project duration?
+The best way to view it, the best way to gain insight as to that impact, is to look at what is called a tornado
+diagram, or a tornado chart   (video 03:31)
+|The tornado diagram is a visual representation of the variability in the overall project duration When I change
+each one of my tasks from its minimum to its maximum duration. Let me walk through and explain it with the
+example the finance tasks which appears on the top ( video 03:49)
+The finance task show the swing (oscilation) with the blue side going down from my line in the middle which is on 12, 
+it goes all the way down to 11. This is a project duration of 11 and it goes all the way up, in red, the most
+pessimistic or the worst case scenario, all the way up to 17. This implies that when my finance task swings from
+its earliest completion time. To its maximum completion time the impact on my project duration is, that it can vary
+from 11 weeks to 17 weeks. There is a variability of 6 weeks that is caused by the variability in the finance task itself. 
+The chart is called tornado because typically it is ordered from largest all the way down to the smallest and that gives
+us an idication as to the big ring versus the smallest ring.
+As we can see, the HR and the IT tasks do not have an impact on the overall product duration. And so if we're trying to
+focus our attention on which tasks give us the most source of uncertainty, in terms of our overall project duration, we
+can focus our attention at the top of the chart, or those tasks that are closer to the top, as supposed to those closer
+to the bottom.
+So, it identifies and prioritizes some of these tasks for us in the context of maning our project duration and getting a
+better sense and feeling more comfortable with any deadline that we set our project.
+So the 1st step associated with conducting a risk analysis and in-depth risk analysis for our project schedule is to
+first ask and collect 3 estimates for each duration of each task. Ask for the minimum duration, the maximum duration
+and try identify the most likely.
+Sometimes it's useful to look at historical data to come up with that information. How quickly were tasks completed
+in the past when we're done something similar? Or what was the maximum it ever took us to get some sense of the 
+maximum possible duration? You could ask multiple individuals who have experience in that area, how long did it take
+you in the past?
+What was the quickest you were able to achieve a certain task? or how, what was the worst that ever happened to you? Or
+we could ask individuals from different departments, with different expertise, to give us different perspectives and
+put that information together and combine it to come up with 3 points or 3 numbers to estimate a range. And over all we
+want to start thinking about our project completion as a range and not as a specific point. We know that our project is
+not likely to complete exactly in the 12 weeks that we identified up front.
+We know thre's going to be a swing, It's going to be anywhere from maybe 11 to 17 weeks. And so we start using those terms
+in order to describe our project and not guarantee a completion by, for instance, 12 weeks.
+
+Schedule Scenarios
+.Elict ranges or 3 point duration estimates
+.Consider historical data
+.Ask multiple opinions
+.Start thinking of the overall project duration as a range not a single number.
+
+--__--__--__
+
+3.4 A More Realistic Timeline Part 2 (8:23)
 
