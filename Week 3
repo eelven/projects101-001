@@ -354,8 +354,42 @@ range can be realized. It is a possible outcome that I might see. But Iam tellin
  
  --__--__--__
  
- 3.5 Cost Risk Analysis (3:01)
- 
- 
- 
- 
+3.5 Cost Risk Analysis (3:01)
+In a similar way to the fact that we thought about the schedule variability and the uncertainty that exists in our project
+completion time, there is also a certain, uncertainty related to the cost of our project. Risks and variability that we can
+think about, and plan for, associated with how much each task will cost us, and what is the overall cost of our project.
+
+Budget Risks
+.Cost estimates are subject to variations.
+.Foreseeable risks can cause the actual project cost to differ from planned.
+.Establish some contingency budget.
+.Budget contingency should be allocated at a project not task level (provides more flexibility for the project manager).
+
+Our cost suffer from the same type of variation. It could be external effects, such as weather or regulation that
+might imply that we will have to pay more to execute and to complete some of our tasks. We might need extra resources. And
+therefore, we can think about the variability that exists and we can start conceptualizing what kind of contingencies we
+would like in place. How are going to ensure that we do not exceded our budget? And how do we plan accordingly to cope with
+any ucertainty that we find ourselves facing.
+Before we see a vision of what it might look like to run a similar analysis, a simulation analysis, to think about the, the
+uncertainty that exists in our project budget, just a word of caution or some thought has to be paid to where we put the
+contingencies. Do not put the contingencies on each and every task even though the tasks themselves could be variable in
+terms of the duration. Allow the project manager to control that contingency associated with the budget to give the project
+manager maximum control on where to spend the extra funds and when and the project manager has that knowledge, and the
+project manager can balance the objectives and the priorities associated with the project objectives in order to best utilize
+the contingency budget.
+And so taking similar steps to the ones we took with the schedule, we can come up with a probabilistic forecast for how much
+the project would cost us. What is the budget that we need, and how comfortable or confident are we that we will actually
+meet that budget.
+(video 01:58)
+Simulation Results
+We can look at an entire distribution. What is the likelihood our project costing so much? We can talk about ranges.
+We're talking about a budget for a project that can vary between 346,000 to somewhere just under 354,000. This is our 90%
+confidence range. We are 90% confident that our project budget will be somewhere within that range. And therefore, we can 
+choose our overall project budget, and allow for extra contingency. Perhaps, we set it somewhere in the region of $350,000
+and we give ourselves 10 t0 15% contingencies to make sure that we are highly confident that we are going to meet this
+project budget, and not exceed it.
+Perhaps, we will come in under budget, but we know that we have the available resources if we need them.
+
+--__--__--__
+
+3.6 Planning for Ambiguity (4:28)
