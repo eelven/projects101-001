@@ -1,0 +1,93 @@
+https://d396qusza40orc.cloudfront.net/projects101/lecture_slides/Week4Slides.pdf
+
+4.1 From Plan to Action (5:32)
+Set of dependencies between the different taks associated with the project.
+We were able to look at the network diagram and identify our critical path.
+(video 01:00)
+With that in mind, we could focus on the subset of tasks that will be
+crucial for us as we walk through the project and which will be our central
+attention, our critical tasks. These will guarantee that if we execute these
+tasks on time, we will complete the project on time, as we expect.
+(video 01:21)
+
+(video 02:00) Project Life - Cycle -> Focusing on the execution stage
+Initiate->Plan->Execute->Close
+
+Initiate:
+.Establish Organization
+.Project charter and definition
+
+Plan:
+.Identify scope
+.Identify tasks, dependencies and schedule
+.Plan resources
+.Clarify trades-offs and decision making principles
+.Develop a risk management plan
+
+Execute:
+.Monitor
+.Communicate and report
+.Correct and control
+
+Close:
+.Sign off
+.Conduct a formal post-mortem
+
+Focusing on the execution stage, we tend to think about the following dimensions
+How during the execution are we goingo to monitor our progress?
+How will we communicate amongst the team and outside externally to the others
+stakeholders?
+Who will be doing the reporting?
+How will we correct and take action when something isn't progressing as planned.
+
+As we think about the execution, we think about monitoring (video 02:37)
+Project Execution: Execute/Correct_and_Control/Monitor/Report_Collect
+How will the monitoring be done?
+Will it be physical or virtual?
+Is our project manager in the same location as the teams?
+Do they work together in such a way that they can actually view the work?
+Or perhaps is a virtual system for collaborative platform going to be used.
+And how often should we ve looking at it?
+Are we going to look at our system every day and expect updates to be made in real time?
+Or are we going to be looking at it on a weekly or bi-weekly basis?
+Is there a central project management office?
+Does that office aggregate information from multiple projects in an organization, and 
+do they share the same resources?
+Does the project manager get support from that office and have others on his team who can
+help him work through any problems that come up?
+What information will actually be monitored?
+Are we monitoring in time?
+Are we monitoring the actual costs?
+And how are we going to be monitoring functionality of the product as we execute and develop
+the product?
+In terms of reporting and collecting the information, this is a not a trivial step
+How often are we expecting updates reports?
+Are we expecting our team to call us everyday and to tell us how they're doing?
+Are we scheduling a weekly meeting to talk about the execution and the progression
+of the project?
+Who is going to be in charge of these meetings?
+Who is going to attend them?
+Are only the individual associated with the tasks going to show up?
+Or are all the stakeholders or related parties going to show up in order to share and
+learn from the execution of our project.
+Once we've collected the information and the reporting has been done, then what?
+How do we correct action if something has gone wrong?
+If a red flag is raised and we are behind schedule, what do we do ?
+(video 04:26)
+It is important identify what sort of decisions will be made.
+Do we have some flexibility in terms of the scope?
+And who can make the call on reducing the scope?
+Who has the ability to hire additional personnel or to outsource and to seek an
+expert to come and help us solve a problem?
+Assuming that we have reached a conclusion that we need to take action, and we've
+taken a corrective action and gone out and found an expert to help us, How will we
+communicate to the rest of the team where we're heading from here?
+How will updates be communicated in terms of change of directions and an alternative
+path that we're all going to have to follow from this point onwards?
+These are the types of questions that are on our mind as we work through the execution,
+as we start the execution, and throughout the entire execution of the project. And we
+will se several different ways in which this can be done.
+
+--__--__--__
+
+4.2 Earned Value (12:14)
