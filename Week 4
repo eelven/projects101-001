@@ -91,3 +91,118 @@ will se several different ways in which this can be done.
 --__--__--__
 
 4.2 Earned Value (12:14)
+
+(video 00:30)
+(video 00:40)
+(video 01:35)
+(video 02:15)
+Update our plan.
+We can use many different whichever package you're using but most programs project management
+software tools out there will allow you to update the progress in the plan
+(video 03:07) highlight % completed
+(video 04:05) Earned Value Analysis 
+.Creative: 25% completed, actual cost $500
+.Schedule work = 40% (2w/5w)
+.Actual work   = 25% (1.25w/5w)
+.Budget Cost   = $1,000
+.Planned Value = 40% x 1,000 = $400
+.Earned Value  = 25% x 1,000 = $250
+Actual Cost    = $500
+
+.Schedule Performance Index (SPI) = Earned Value / Planned = 63%
+.Cost Performance Index (CPI) = Earned Value / Actual = 50%
+We Know that if things were going as planned, we are 2 weeks into the project. By now we expect
+to do 2 weeks of work out of a 5 week task. We expect it to be about 40% done.
+So far,if we were progressing as planned, we would have spent, or we would have completed 40%
+of the work, and therefore, we expect to have spend 40% of the budget, implying that our planned
+value, what we planned to spend at this time was $400.
+What we've earned, what our work has earned, what the work that we actually completed has
+earned us, 25% of the budget would imply that we've earned $250 worth of spending.
+But our actual spending was %500, there seems to be some variance here.
+
+(video 05:27)We can identify several sources of variance; that we are about 0.75
+just under a week behind where we should have been at this point in time.
+(video 05:31)We can also see that we are about $150 behind our scheduled work.
+video(05:40)We can also spot, looking at the difference between 250 and the 500, that we have
+about $250 worth of variance in terms of the actual spending that we've entailed in our 
+project.
+
+From the schedule perspective we're going to be looking at the schedule performing index.
+(video 06:05)We're going to be looking at how much we've earned for the work that we've done
+versus what we plan to do in terms of this over this time. So in the 2 weeks we planned to do
+40% of the work we plan to spend $400, but we've actually earned from the work that we've
+completed $250. Our scheduled performance index is 0.63, or 63%.
+As a benchmark, 100% or 1 would have been on track, that means our work was performed on time.
+And right now there's some indication that we are behind. We haven't completed the amount of 
+work that we thought we would at this point in time.
+From the cost performance perspective, well, here we can also measure a similar component, or
+a similar index. We can look at our earned value, how much we've actually earned in terms of 
+the work and what the actual spending was, or what the actual spending that we've reported.
+250 of the work that we've actually achieved divided by 500 gives us around a 50% competion rate
+Meaning our cost is about 50% over budget. Again, a 100% index would have indicated that we're 
+on budget.
+These 2 indices are helpful as we track our project to check all the time, are we working as we
+planned and progressing on schedule, and are we spending the correct amount of money?
+ 
+ (video 07:33) Performance indices
+ On track: Schedule Performance Index (SPI) = 1
+ On track : Cost Performance Index (CPI) = 1
+ If we fall beneath the line, the dotted line which is 100%, we want to raise some flags. We are
+ over budget and we are behind in terms of our schedule. The lower that number, the more severe
+ the situation is. The lower the number, the more over budget we may be. Or the later we are and
+ we had not done as much work as we have hoped.
+ Why might we want to flag situations in which our industries shoot up?
+ What happens if we get some report around progressing 120%, meaning that we're ahead of schedule
+ and that we're under budget. here too we may want to raise some flags. Are we neglecting some
+ component of the scope?
+ Have we missed out some critical tasks or some crucial task in terms of the functionality that are
+ expected to be delivered at the end of the day?
+ Are we not performing the tasks or executing properly, and are we maybe cutting corners or rushing
+ too quickly?
+ Any deviation from that band of approximately 100% on both of these dimensions might raise some 
+ red flags.
+ This framework is used widely in the industry. It was developed by the Department of Defense and today,
+ in the government in the U.S. in particular, but internationally too.
+ These types of measures are used in an ongoing basis. to report and to collaborate and to monitor the
+ execution of projects. Individuals, subcontractors or even within the same organization will typically
+ talk about how well they're doing on the schedule performance index and on the cost performance index
+ 
+ The software tools that we use are helpful, as well. They will give us the analysis, so they will do the
+ calculation for us and we can use the built in functionality to look at how we'll we're doing. We can
+ input the progress, and we can look at our variances and our performance indicators.
+ 
+ (video 09:47) Earned Value Analysis
+ In this case, just to summarize, we have the 3 tasks that we've made some progress on, and we see that we
+ can update our schedule to view how the 3 tasks, Creative, Strategy and IT, are doing in terms of our cost
+ performance index and our schedule performance index. We see here, for instance, that specifically the
+ strategy task. seem to actually be under budget. so far we haven't spent as much money as we thought we
+ would for the amount of work that we've done.
+ Overall though, are we in trouble?
+ Overall as a project, do we need to make critical changes to our project?
+ To the execution?
+ Do we need to find additional resources to help us get things back on track?
+ Using the tools and the software packages, we can also update our project plan. We can assume that we're
+ going to continue moving forward in the same pace that we've moved so far.
+ Giving us a re-calculation of our project, we can see that our critical path has stayed the same. Still
+ the Creative task, the Sales taks and the Finance task are still critical in this Gantt chart. 
+ (video 10:56)We can see the delay become real. We can see that overall we have an additional, just under 0.75
+ week added to the expected completion of our project. And given information that we have some so far, we
+ see that we'll be going just a little bit over our budget that we had anticipated. Instead of $8,500, we're
+ looking more like just under $9,000.
+ What is our conclusion?
+ Are we in trouble?
+ Perhaps we can afford to be delayed by just under a week
+ Do we need to make sure that from now on everything takes places properly and everything is executed as planned?
+ Of course we do.
+ Any additional delays later in the project will just continue to push our deadlines further.
+ And so the fact that we've just started, we are 2 weeks into our project and we're already a little bit delay,
+ might require some attention. We know that we have an additional $425 in our expected spending. Perhaps we
+ want to think about how we will find that already at this point in time or maybe find opportunites to save
+ latter on in the life of our project.
+ But now we have a good idea on how things are progressing and where we stand in terms of our cost and the schedule
+ of our product.
+ 
+ --__--__
+ 
+ 4.3 Those Who Execute (08:32)
+ 
