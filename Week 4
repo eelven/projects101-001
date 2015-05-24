@@ -280,3 +280,165 @@ flow might help us overcome some of the phenomena that induce extra time and ext
 --__--__
 
 4.4 Agile, Scrum, and Kanban (14:33)
+
+What Agile?
+.Software development firms
+.Release pace was declining
+.Quality was suffering
+.Engineer moral
+.Padding and no accountability
+
+
+The background behind agile has to do with software development firms around the year 2000. Many of the firms were
+growing. Firms that started as small start-ps were building a reputation, were sucesful and acquiring a larger size
+development team.
+
+As a result of the company growth, what happened in returns was a slowdown of the release peace, meaning the release
+schedule was slowed down. They were realising the product to the market not as frequently as wanted to, or not as
+frequently as they did when they were small and nimble.
+
+In additional to a slower release pace, the quality of the also declined, and there was a bigger mismatch between what
+the customer wanted and the product was being delivered.
+
+The engineers that were working on the products were feeling the hit, the morale was low. They wanted to be part of a 
+small and nimble company where they touched the customer and they felt the impact and the benefits of their development, 
+they wanted to be proud of their work and they wanted to know that when they work, it immediately affects a customer
+out there.
+
+And in additional, because of this, they were padding the durations of their tasks, they were not accountable or
+defending themselves in terms of how they stuck up for their work , or they would step up to help correct problems
+ans they emerged, because this fenomena in a lot of companies, the companies felt need to make some changes.
+A group of 17 visionaries came together around the year of 2001 and decided to sign what they saw as the vision of
+software development, the Agile Manifesto.
+They collaborated on a document to come up with a set of principles that would guide the way that they thought about
+software development. They focused on a few items. First and foremost, they value individuals are interactions.
+They wer going to focus on delivering working software, and on customer, and constant customer collaboration.
+They were going to be looking at responding to change and not necessarily following a predetermined plan that was
+set up front. They need for a general plan.
+
+Agile Manifesto
+Manifesto for Agile Software Development
+We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have
+come to value:
+Individual and interactions over processes and tools
+Workin software over comprehensive documentation
+Customer collaboration over contract negotiation
+Responding to change over following a plan
+That is, while there is value in the items on the right, we value the items on the left more.
+www.agilemanifesto.org
+
+Quite a few principles were drafted as the backbone to the manifesto. How do they execute the manifesto?
+
+Agile Principles and Manifesto
+We follow these principles:
+1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's
+competitive advantage.
+3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter
+timescale
+4. Business people and developers must work together daily throughout the project.
+5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get
+the job done.
+6. The most efficient and effective method of conveying information to and within a development team is face to face
+conversation.
+7. Working software is the primary measure of progress.
+8. Agile processes promote sustainable development. The sponsors, developers and users should be able to maintain a 
+constant pace indefinitely.
+9. Continuous attention to technical excellence and good design enhances agility.
+10. Simplicity-the art of maximizing the amount of work not done-is essential.
+11. The best architectures, requirements, and designs emerge from self-organizing teams.
+12. At regular intervals, the team reflects on how to become more effective, thenm tunes and adjusts its behavior accordingly
+
+(video 05:00)
+Talk about 2 mechanisms that execute and implement the agile ideas
+2 Agile variations:
+1-Scrum Sprints
+"An iterative framework within which people can address complex adaptive problems while productively and creatively
+delivering products of the highest possible value"   www.scrumguides.org
+
+2-Kanban
+Continuos flow model with no iterations. Suited for short-cycle deliverables, limiting work in progress.
+
+Whether you're working in definied sprints and following a Scrum approach, or whether you're working in a Kanban
+mechanism in wich you're constantly delivering to the client but limiting the amount of ongoing work, you're still
+working agile. you're working in small units of work of pieces of work, you working in small cohesive teams and you're
+putting the costumer's needs and the idea of delivering a working software as a top priority.
+
+(video 06:09) Agile (Scrum) Team
+.Cross-functional (programmers, test, design)
+.Members should be committed full-time
+.Self-organizing team
+
+Developers->Scrum master->Product owner->Customer
+
+First, we must have a Scrum Team. The scrum team is very well defined and it is a necessity to have it in place in order
+to work in this fashion.
+We need a group of developers. They need to have a Scrum master who has been trained as a Scrum master.
+A product owner that serves as a liaiser between the Scrum master and the team and the Customer.
+And we need a Customer involved throughout the entire process.
+
+The group of developers have to be cross-functional, because it will require to complete the entire steps that are 
+necessary to deliver a working product. If that means we need a coder, and we need somebody to do the QA, then we need them
+all working together as part of a Scrum team.
+
+It is self-organizing, they have the capability with their Scrum master to vet which features they can conduct and they can
+execute on and what might they need in order to push the needle forward.
+
+The Scrum master is in charge of taking care of the Scrum Team. He is in charge of blocking and tackling anything that might
+get in their way. He is in charge of coordinating the different individuals and allowing them to help each other and to 
+have a constant flow of information among them.
+The product owner is the one that sets the priorities.
+What should te team be working on in this specific iteration?
+And the product owner gets that knowledge from constant dialogue with the customer.
+How did they value the previous features, and what would they like to see in place in the next iteration?
+This scrum teams works together during a sprint. They work on many sprints in a given year.
+The sprints are typically anywhere betwwen one week sprint to four weeks sprint.
+The idea of sprint is that we work intensely on a set of ideas or a set of features that we've defined at the beginning of
+the sprint. and that at the end of the sprint we deliver a product to the customer.
+(video 08:07) Tipically firms start off with a product backlog, a list of features that need to go into our product at the
+end of the day, or a list of features that together, with the costumer, we've identified as worthy of working on.
+At the beginning of the sprint we will identify what goes into the sprint backlog.
+Wich features are we putting in front of us to work on, say in the next 2 weeks?
+During the next 2 weeks, in an iterative fashion, the team members take whatever they're comfortable with, whatever piece of
+work they're expert in, and they progress on the work on delivering those features.
+They might iterate among themselves using code, doing some documentation, checking it out and fixing some bugs. Or they might
+wait, work in a more sequential fashion. but that is up to them, to the self-organizing team. At the end of the sprint, 
+they deliver whatever works to the client, they deliver a working feature ti the client.
+What is crucial in the sprint is maintaining and monitoring the different, and making sure that you execute on the 
+different meetings that are scheduled. The meetings set the tone for the entire sprint and they ensure that the sprint 
+delivers on its promise. it delivers a working product to the customer and the team is satisfied in the way it's working
+together.
+(video 09:17) hese are the meeting that we need to ensure that occur throughout the sprint. First, we start off with a 
+sprint planning. We plan which of the items from the product backlog go into our sprint backlog. Them during the execution,
+during the sprint itself, we go through a daily stand up, a daily scrum meeting, a standing up meeting. No one sits down.
+Maybe 15 minutes in which we share our experience and flag, or raise some flags, if need be, if we are reaching some
+problematic area. We talk and communicate as to what we're planning to do that day, and what we were able to achieve the
+fay before. Those daily stand up meetings are vital as we progress through the scrum in its quick and rapid pace.
+Once the product is ready at the end of the sprint, we conduct a sprint review, and the customer's in the sprint review
+helping us understand what they feel about the features that we've developed and how they might be using it to test it out.
+And finally, we conduct an internal Sprint Retrospective, reflecting on what went well and what did not go as well and how
+we can improve in the next sprint moving forward.
+
+-Benefits to Agile
+  .Empowers the Development team
+  .Developers want to deliver a product to the client.
+-Creates joint incentives and transparency with the client.
+-Helps firms build the right thing, at the right time, and build it right!
+
+Contention Around Agile
+-A "living in the moment" culture
+-Less documentation
+-#noestimates movemet
+-Hard to master-requires the right mindset
+-Can be challenging with distributed teams
+
+How is our project going to be executed?
+And whether or not the tools that we've introduced so far are appropriate. In many cases, we might find ourselves
+picking and choosing. We might do some documentation and proper planning following a critical path and coming up
+with our Gantt chart and actually execute our project using earned value analysis. We may choos a specific sub-group
+or a specific functionality within our larger project to work in a more agile way. Assuming it is possible, we have a 
+customer that will collaborate and interact with us and we have a small enough team that can be devoted to the project
+and can work together to deliver small units of work and, during quick iterations.
+Having the tools to identify what is needed for each methodology to worl and to be successful is a vital part of being
+successful as a project manager and ultimately executing on a meaningful and successful project.
+
